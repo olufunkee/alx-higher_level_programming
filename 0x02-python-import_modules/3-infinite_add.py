@@ -6,7 +6,7 @@ if __name__ == "__main__":
     summ = 0
 
     if count == 1:
-        print ("{}".format(summ))
+        print("{}".format(summ))
     else:
         for i in range(1, count):
             summ += int(sys.argv[i])
