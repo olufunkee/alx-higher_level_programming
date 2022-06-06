@@ -12,4 +12,3 @@ if __name__ == "__main__":
     print("{} - {} = {}".format(a, b, subb))
     print("{} * {} = {}".format(a, b, prod))
     print("{} / {} = {}".format(a, b, quot))
-
